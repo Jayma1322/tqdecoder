@@ -1,11 +1,12 @@
 {
   "name": "tqdecoder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple node API for translating typing \"quirks\" that involve replacing letters that may be harder to read for some.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jayma1322",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "github:jayma1322/tqdecoder"
 }
